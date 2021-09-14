@@ -1,0 +1,8 @@
+.rdt_TableHeader {
+  border-radius: 20px 20px 0px 0px;
+  font-size: large;
+}
+
+.rdt_TableHead {
+  border-radius: initial;
+}
